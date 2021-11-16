@@ -1,4 +1,6 @@
 # asp-net-core-hotel-listing-api
+This ASP.NET CORE Web API was built following: Ultimate ASP.NET Core 5 Web API Development Guide Course
+
 
 ## Set project up & running
 
